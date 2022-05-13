@@ -31,7 +31,7 @@
   "license": "MIT",
   "dependencies": {
     "@grpc/proto-loader": "0.3.0",
-    "@nestjs/common": "6.1.1",
+    "@nestjs/common": "7.5.0",
     "@nestjs/core": "6.1.1",
     "@nestjs/microservices": "6.1.1",
     "@nestjs/testing": "6.1.1",
@@ -44,7 +44,7 @@
     "cache-manager": "2.9.0",
     "class-transformer": "0.2.2",
     "class-validator": "0.9.1",
-    "cli-color": "1.4.0",
+    "cli-color": "2.0.1",
     "connect": "3.6.6",
     "cors": "2.8.5",
     "engine.io-client": "3.3.2",
