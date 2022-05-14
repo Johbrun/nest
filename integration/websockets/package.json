@@ -7,7 +7,7 @@
     "start": "ts-node src/main"
   },
   "dependencies": {
-    "@nestjs/common": "6.2.0",
+    "@nestjs/common": "7.5.0",
     "@nestjs/core": "6.2.0",
     "@nestjs/microservices": "6.2.0",
     "@nestjs/testing": "6.2.0",
