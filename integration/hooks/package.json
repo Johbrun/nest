@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@nestjs/common": "6.2.0",
-    "@nestjs/core": "6.2.0",
+    "@nestjs/core": "9.0.5",
     "class-transformer": "0.2.2",
     "class-validator": "0.9.1",
     "reflect-metadata": "0.1.13",
